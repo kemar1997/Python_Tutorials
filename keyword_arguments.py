@@ -14,4 +14,4 @@ dumb_sentence('Sally', 'made', 'a banana and strawberry smoothie for breakfast.'
 # First off you need to utilize the keywords of the arguments and equal it to something
 # in the parentheses below, so for instance.. i changed the item argument and set it equal
 # to "awesome" so when I run it, it returns the sentence "Kemar ate awesome".
-dumb_sentence(item='awesome')
+dumb_sentence(item='awesome', action='is')
