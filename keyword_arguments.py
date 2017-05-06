@@ -1,1 +1,1 @@
-def
+def dumb_sentence():
