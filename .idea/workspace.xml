@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4d1e41f0-005d-4720-aede-b533c91710ff" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/keyword_arguments.py" afterPath="$PROJECT_DIR$/keyword_arguments.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -347,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494051923115</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new">
+      <created>1494053241877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1494053241877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -388,7 +394,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="function" />
-    <option name="LAST_COMMIT_MESSAGE" value="function" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
