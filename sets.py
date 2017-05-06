@@ -9,4 +9,6 @@ print(groceries)
 
 # gonna return true since indeed milk is in the groceries set
 if 'milk' in groceries:
-    
+    print('You already have milk hoss!')
+else:
+    print("Oh yeah, you need milk!")
