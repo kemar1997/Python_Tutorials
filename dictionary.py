@@ -9,4 +9,4 @@ classmates = {'Bucky':'is cool but smells', 'Emma':'sits behind me', 'Lucy':'ask
 # print(classmates['Emma'])
 
 for k, v in classmates.items():
-    print(k + ' ' + v)
+    print(k + v)
