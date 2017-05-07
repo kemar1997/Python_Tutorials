@@ -8,7 +8,11 @@ in order to do that you use the 'import' keyword which basically tells the progr
 to fetch another file to include with the original file. Then you have to tell import what
 file you want to use so in this case I wrote "import tuna", and to make a reminder... you 
 don't need to add the extension ".py" when importing because it already knows that it is 
-another python file unless it won't work, obviously.
+another python file unless it won't work, obviously. Second, you have to call the function
+from the module you imported. So you have to use dot syntax to say you want to access the 
+tuna module and you want to use the fish function in that module
 """
 
 import tuna
+
+tuna.fish()
