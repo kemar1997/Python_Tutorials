@@ -31,5 +31,4 @@ def get_single_item_data(item_url):
         print(href)
 
 
-
 forum_spider(5)
