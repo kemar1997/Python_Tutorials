@@ -11,7 +11,8 @@ def forum_spider(max_pages):
         for link in soup.findAll('a', {'class': 'title'}):
             href = link.get('href')
             title = link.string
-            print(href + " " + title)
+            get_single_item_data(href)
+            # print(href + " " + title)
         for link in soup.findAll('a', {'class': 'user-name'}):
             href = link.get('href')
             username = link.string
@@ -23,6 +24,8 @@ def get_single_item_data(item_url):
     source_code = requests.get(item_url)
     plain_text = source_code.text
     soup = BeautifulSoup(plain_text, "html.parser")
+    for item_name in soup.findAll('h1', {'class': 'forum-title'}):
+        print(item_name.string)
 
 
-forum_spider(1)
+forum_spider(5)
