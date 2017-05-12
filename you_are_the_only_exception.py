@@ -1,3 +1,8 @@
+"""
+Exceptions are necessary in some cases. Especially when we are dealing with Graphical
+User Interfaces.
+"""
+
 while True:
     try:
         number = int(input("What is your fav number?\n"))

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d1e41f0-005d-4720-aede-b533c91710ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/you_are_the_only_exception.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -437,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494393428279</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="learned the exception keyword">
+      <created>1494589266602</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1494589266602</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -484,7 +490,8 @@
     <MESSAGE value="added a new python file for reading and&#10;writing files plus i left the sample.txt file&#10;as is for other purposes later on" />
     <MESSAGE value="created a function to download data from a .csv file" />
     <MESSAGE value="new additions" />
-    <option name="LAST_COMMIT_MESSAGE" value="new additions" />
+    <MESSAGE value="learned the exception keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="learned the exception keyword" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
